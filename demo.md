@@ -1,0 +1,1 @@
+search the wibe to  find 5 artical about job interview skills, creat a summer.md to list the aretial with link and summary, generate a summary.html to visualize the actionable advice including mermaid style flowchart
